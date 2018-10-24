@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KP_1</string>
+    <string name="btShowToast_text">Показать текст</string>
+    <string name="etText_hint">Введите текст</string>
+</resources>
